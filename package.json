@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "parcel": "^1.12.4",
-    "preact": "^10.4.1"
+    "preact": "^10.5.13"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
-    "@babel/preset-react": "^7.9.4"
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/preset-react": "^7.13.13"
   },
   "alias": {
     "react": "preact/compat",
