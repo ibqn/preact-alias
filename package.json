@@ -3,18 +3,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "source": ["index.html"],
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "npm run dev",
-    "dev": "parcel index.html --port 8080 --open"
+    "dev": "parcel --port 8080 --open"
   },
   "dependencies": {
-    "parcel": "^1.12.4",
-    "preact": "^10.5.13"
+    "preact": "^10.6.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.14",
-    "@babel/preset-env": "^7.13.12",
-    "@babel/preset-react": "^7.13.13"
+    "parcel": "^2.4.0"
   },
   "alias": {
     "react": "preact/compat",
