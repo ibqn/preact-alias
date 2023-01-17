@@ -10,10 +10,10 @@
     "dev": "parcel --port 8080 --open"
   },
   "dependencies": {
-    "preact": "^10.7.1"
+    "preact": "^10.11.3"
   },
   "devDependencies": {
-    "parcel": "^2.5.0"
+    "parcel": "^2.8.2"
   },
   "alias": {
     "react": "preact/compat",

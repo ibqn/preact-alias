@@ -1,8 +1,8 @@
 lockfileVersion: 5.4
 
 specifiers:
-  parcel: ^2.5.0
-  preact: ^10.7.1
+  parcel: ^2.8.2
+  preact: ^10.11.3
 
 dependencies:
   preact: 10.11.3
